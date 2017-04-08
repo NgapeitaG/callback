@@ -1,0 +1,5 @@
+Asynchronous programming:
+
+A form of computer control timing protocol in which a specific operation
+begins upon receipt of an indication (signal) that the preceding operation
+has been completed.
